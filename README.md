@@ -24,7 +24,7 @@ then run 'npm start'
 
 and here you go...
 
-[.public/AadeshTech.png](https://github.com/AadeshTech/React_Gpt/blob/master/public/AadeshTech.png)
+![AadeshTech](https://github.com/AadeshTech/React_Gpt/assets/123294859/3de15478-4964-4fcc-a817-152125575b3d)
 
 
 
